@@ -10,7 +10,7 @@
   ],
   "apps": [
     {
-      "name": "Relax",
+      "name": "Lancer de Hache",
       "bundleIdentifier": "fr.basilebargibant.LancerHache",
       "developerName": "Basile BARGIBANT",
       "subtitle": "Relaxez-vous en lançant des haches sur une cible",
