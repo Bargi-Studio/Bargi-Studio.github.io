@@ -3,7 +3,8 @@
   "subtitle": "Apps de Basile Bargibant",
   "description": "Bienvenue sur la source du Bargi Studio",
   "iconURL": "https://i.imgur.com/Ep9dumm.png",
-  "website": "https://bargi-studio.github.io/",
+  "website": "https://basile-bargibant.web.app/",
+  "patreonURL": "",
   "tintColor": "#18114d",
   "featuredApps": [
     "fr.basilebargibant.LancerHache"
@@ -12,6 +13,7 @@
     {
       "name": "Lancer de Hache",
       "bundleIdentifier": "fr.basilebargibant.LancerHache",
+      "marketplaceID": "",
       "developerName": "Basile BARGIBANT",
       "subtitle": "Relaxez-vous en lançant des haches sur une cible",
       "localizedDescription": "Découvrez lancer de hache, une application relaxante qui vous permet de relâcher la pression en envoyant des haches sur une cible ! Ce n'est pas assez pour vous ? Ajoutez une image sur votre cible pour détruire la chose qui vous plaira !",
@@ -31,7 +33,7 @@
           "size": 4300000,
           "version": "1.0.1",
           "buildVersion": "2",
-          "date": "2026-06-17T11:05:00+02:00",
+          "date": "2026-06-17T09:05:00+02:00",
           "localizedDescription": "Corrections de bugs mineurs",
           "minOSVersion": "16.0"
         },
@@ -48,7 +50,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "patreon": {}
     }
   ],
   "news": []
